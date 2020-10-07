@@ -1,11 +1,11 @@
 # Name of the project
-PROJECT_NAME = Calculator
+PROJECT_NAME = Addres Book Management
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
+SRC = address_book.c\
 src/calculator_operations.c\
 
 # All test source files
