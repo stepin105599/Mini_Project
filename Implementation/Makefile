@@ -26,5 +26,5 @@ clean:
 	rm -rf *o address
 	
 doc: 
-make -C documentation	
+	make -C documentation	
 
